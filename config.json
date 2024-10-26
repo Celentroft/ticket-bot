@@ -1,0 +1,8 @@
+{
+    "token": "bot token",
+    "color": "ffffff",
+    "buyer": null,
+    "tickets": {
+        "category": null
+    }
+}   
